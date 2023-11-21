@@ -1,0 +1,192 @@
+/* Poppins & Source sans 3*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+*, ::before, ::after {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+:root {
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+}
+
+body {
+    flex-shrink: 0;
+}
+
+.vector1 {
+    height: 1236px;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.vector2 {
+    position: absolute;
+    top: -16px;
+    right: -65px;
+    width: 2145px;
+    height: 935px;
+}
+
+.vector3 {
+    position: absolute;
+    top: -33px;
+    right: -65px;
+    width: 2188px;
+    height: 935px;
+}
+
+.vector4 {
+    position: absolute;
+    top: -36px;
+    right: -152px;
+    width: 2188px;
+    height:934px;
+}
+
+.ellipse1 {
+    position: absolute;
+    bottom: 597px;
+    right: 430px;
+    width: 874px;
+    height: 281px;
+    transform: rotate(-20.175deg);
+    flex-shrink: 0;
+    border-radius: 874px;
+    filter: blur(82px);
+}
+
+
+.vector5 {
+    position: absolute;
+    bottom: 994px;
+    left: 0;
+    width: 987px;
+    height: 283px;
+    flex-shrink: 0;
+}
+
+.vector6 {
+    position: absolute;
+    bottom: 1040px;
+    left: 0;
+    width: 746px;
+    height: 219px;
+    flex-shrink: 0;
+}
+
+.vector7 {
+    fill: linear-gradient(261deg, #81A4FF 24.89%, #A93DFF 55.42%, #819CFF 71.47%);
+    position: absolute;
+    bottom: 57px;
+    right: -104px;
+    width: 2067px;
+    height: 940px;
+    flex-shrink: 0;
+}
+
+.vector8 {
+    fill: linear-gradient(261deg, #81A4FF 24.89%, #A93DFF 55.42%, #819CFF 71.47%);
+    position: absolute;
+    bottom: 63px;
+    right: -104px;
+    width: 2081px;
+    height: 963px;
+    flex-shrink: 0;
+}
+
+.vector9 {
+    fill: linear-gradient(261deg, #81A4FF 24.89%, #A93DFF 55.42%, #819CFF 71.47%);
+    position: absolute;
+    bottom: 63px;
+    right: -104px;
+    width: 2032px;
+    height: 915px;
+    flex-shrink: 0;
+}
+
+.ellipse2 {
+    position: absolute;
+    top: 549px;
+    right: 1196px;
+    width: 874px;
+    height: 279px;
+    transform: rotate(-20.175deg);
+    flex-shrink: 0;
+    border-radius: 874px;
+    background: #FF88D7;
+    filter: blur(82px);
+}
+
+.ellipse3 {
+    position: absolute;
+    top: 383px;
+    left: 670px;
+    width: 874px;
+    height: 407px;
+    transform: rotate(-20.175deg);
+    flex-shrink: 0;
+    border-radius: 874px;
+    opacity: .4;
+    filter: blur(82px);
+}
+
+.ellipse4 {
+    position: absolute;
+    top: 410px;
+    right: -198px;
+    width: 874px;
+    height: 279px;
+    transform: rotate(-20.175deg);
+    flex-shrink: 0;
+    border-radius: 874px;
+    opacity: .4;
+    filter: blur(82px);
+}
+
+.ellipse5 {
+    position: absolute;
+    top: 350px;
+    left: -404px;
+    width: 786px;
+    height: 432px;
+    transform: rotate(-20.175deg);
+    flex-shrink: 0;
+    border-radius: 786px;
+    background: #211F97;
+    filter: blur(82px);
+}
+
+.vector10 {
+    position: absolute;
+    bottom: -567px;
+    left: -485px;
+    width: 2947px;
+    height: 1346px;
+    flex-shrink: 0;
+    filter: blur(78px);
+}
+
+.vector11 {
+    position: absolute;
+    top: -65px;
+    right: -194px;
+    width: 642px;
+    height: 384px;
+    flex-shrink: 0;
+    filter: blur(78px);
+}
+
+.vector12 {
+    position: absolute;
+    top: 545px;
+    right: -543px;
+    width: 2145px;
+    height: 556px;
+    flex-shrink: 0;
+    filter: blur(78px);
+}
